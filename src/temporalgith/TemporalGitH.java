@@ -20,6 +20,9 @@ public class TemporalGitH {
         p.setNombre("Vinni");
         
         System.out.println(p);
+        System.out.println("FIN DE PROGRAMA");
+        
+        
     }
     
 }
