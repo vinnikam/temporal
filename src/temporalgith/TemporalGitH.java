@@ -15,6 +15,11 @@ public class TemporalGitH {
      */
     public static void main(String[] args) {
         System.out.println("Conexion a GitHub");
+        
+        Persona p = new Persona();
+        p.setNombre("Vinni");
+        
+        System.out.println(p);
     }
     
 }
